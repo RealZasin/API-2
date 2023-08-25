@@ -1,0 +1,65 @@
+* {
+  padding: 1px;
+}
+
+#catImageContainer img{
+  display: block;
+  max-width: 22rem;
+  max-height: 15rem;
+  width: 22rem;
+  height: 15rem;
+}
+
+#dogImageContainer img{
+  display: block;
+  max-width: 22rem;
+  max-height: 15rem;
+  width: 22rem;
+  height: 15rem;
+}
+
+#boredTextContainer {
+  display: block;
+  max-width: 22rem;
+  max-height: 15rem;
+  width: 22rem;
+  height: 15rem;
+}
+
+button {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+#cats {
+  display: block;
+  min-height: 15rem;
+}
+ 
+#dogs {
+  display: block;
+  min-height: 15rem;
+}
+
+#boredSuggestionText {
+  font-size: 1.1rem;
+  text-decoration: underline;
+  padding: 3px;
+}
+
+#boredTextContainer {
+  border: 3px solid black;
+  padding: 0px 5px;
+  max-width: 20rem;
+  
+}
+
+#dropdown {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+
+
